@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="24px" height="24px" viewBox="0 0 24 24" enable-background="new 0 0 24 24" xml:space="preserve">
-<ellipse stroke="#000000" stroke-width="3" cx="12.001" cy="12" rx="10.505" ry="10.563"/>
-</svg>
+# Saturn
+A free PSD & HTML blog template. See the demo [here](http://saturn.afnizarnur.com/) and download the latest release [here](https://github.com/afnizarnur/saturn/releases). 
+![Saturn](https://user-images.githubusercontent.com/4648648/52061875-f1e83480-25a1-11e9-9ebe-4250fc6bf1b1.png)
+
+## License
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
+
+Draco is licensed under Creative Commons [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Which means that you are free to copy and redistribute the material in any medium or format and remix, transform, and build upon the material.
+
+This template is designed and developed by Afnizar Nur Ghifari.
